@@ -39,6 +39,3 @@ Si vous n'avez pas encore de compte, créez-en un avec une adresse mail valide.
 Notre groupe se trouvera à cette URL pour cette session de formation:
 
 https://github.com/WebDevCF2m2022
-
-
-
