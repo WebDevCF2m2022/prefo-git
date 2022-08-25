@@ -4,8 +4,8 @@
 
 ## Arborescence
 
-- [UNIX](#unix) (LINUX - MAC)
-- DOS (WINDOWS)
+- [UNIX](#unix) (LINUX - MAC - etc...)
+- [DOS](#dos) (WINDOWS)
 - [GIT](#GIT)
 - [Ressources GIT](#ressources-git)
 - [Github](#githubcom)
@@ -21,11 +21,49 @@ Il repose sur un interpréteur ou superviseur ( le [shell](https://fr.wikipedia.
 
 Ken Thompson et Dennis Ritchie sont considérés comme les inventeurs d'Unix. Par jeu de mots, le nom UNIX découle de celui d'un système antérieur, Multics.
 
-Il est important de savoir que différents systèmes d'exploitations actuels utilisent les commandes de cette "base" commune : Linux (principal OS pour les serveurs web), IOS, macOS, Android, etc ...
+Il est important de savoir que différents systèmes d'exploitation actuels utilisent les commandes de cette "base" commune : Linux (principal OS pour les serveurs web), IOS, macOS, Android, etc ...
 
 [Pour en savoir plus sur UNIX - wikipédia](https://fr.wikipedia.org/wiki/Unix)
 
 Il est important de connaitre les commandes de base pour s'en "sortir" avec GIT, et même pour de nombreux autres langages ou logiciels utilisé via [SSH](https://fr.wikipedia.org/wiki/Secure_Shell).
+
+### Principales commandes UNIX
+
+Liste des principales commandes que nous utiliserons :
+
+- [pwd](https://man.openbsd.org/pwd)  affiche le chemin absolu du répertoire courant
+- [ls](https://www.techonthenet.com/unix/basic/ls.php) affiche les répertoires et les fichiers du répertoire actif
+    - ls (affiche seulement les noms)
+    - ls toto* (affiche les fichiers commençant par toto)
+    - ls -l (affiche le format long : types + droits + Nbre de liens + ....)
+    ...
+- [cd](https://www.techonthenet.com/unix/basic/cd.php) change de répertoire
+    - cp chemin (vers le répertoire dont le chemin absolu est donné)
+    - cd .. (répertoire parent)
+    - cd ~ (répertoire de base)
+    - cd - (répertoire précedent)
+    - cd / (répertoire racine)
+
+cp (copie)
+cp rapport*.txt sauvegarde
+cp * dossier (copie
+mv (move, renomme et déplace un fichier)
+mv source destination
+mv * dossier (déplace tous les fichiers du répertoire actif vers le répertoire
+dossier)
+mkdir (créer un répertoire)
+mkdir répertoire
+rmdir (effacer un répertoire)
+rmdir dossier (supprime un répertoire vide)
+rm (remove, éfface!!!)
+rm -R (enlèvement récursif!!!)
+rm fichier
+rm -i fichier (interactivement, avec demande de confirmation)
+rm -f fichier (avec force, sans demande de confirmation)
+rm -r fichier (avec récursivité, avec les sous répertoires)
+rm -rf dossier (supprime le répertoire et tou son contenu, sans confirmation)
+
+- [Cheat sheet Unix en pdf](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/Unix_command_cheatsheet.pdf)
 
 ## DOS
 
@@ -40,7 +78,7 @@ des petits aux très grands projets avec rapidité et efficacité.
 
 C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et distribué selon les termes de la licence publique générale GNU version 2.
 
-Depuis 2010, il est de loin le système de versions le plus utilisé dans le monde du web comme dans le dévelopement en général, aussi bien pour les projets open source que commerciaux.
+Depuis 2010, il est de loin le système de versions le plus utilisé dans le monde du web comme dans le développement en général, aussi bien pour les projets open source que commerciaux.
 
 Lorsqu'on lui demande l'origine de ce nom "git",
 qui est à peu près l'équivalent de "connard" en argot britannique, Linus Torvalds a répondu :
@@ -57,7 +95,7 @@ https://git-scm.com/
 
 Vous y trouverez également de la documentation relativement complète online.
 
-Je vous ai mis la dernière version de progit.pdf dans le dépot (repository) actuel :
+Je vous ai mis la dernière version de progit.pdf dans le dépôt (repository) actuel :
 
 - [progit](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/progit.pdf)
 
