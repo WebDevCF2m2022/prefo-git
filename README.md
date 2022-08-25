@@ -4,12 +4,32 @@
 
 ## Arborescence
 
-- UNIX (LINUX - MAC)
+- [UNIX](#unix) (LINUX - MAC)
 - DOS (WINDOWS)
 - [GIT](#GIT)
 - [Ressources GIT](#ressources-git)
 - [Github](#githubcom)
 - [Ressources GITHUB](#ressources-github)
+
+## UNIX
+
+- [Retour à l'arborescence](#arborescence)
+
+Unix est un système d'exploitation créé par Bell Labs en 1969 sous la forme d'un systèmes d'exploitation multitâche et multi-utilisateur.
+
+Il repose sur un interpréteur ou superviseur ( le [shell](https://fr.wikipedia.org/wiki/Shell_Unix) ) et de nombreux petits utilitaires, accomplissant chacun une action spécifique, commutables entre eux (mécanisme de « redirection ») et appelés depuis la ligne de commande (PowerShell par exemple sous Windows, car Windows utilise le langage natif [DOS](#dos) si on exécute `cmd.exe`).
+
+Ken Thompson et Dennis Ritchie sont considérés comme les inventeurs d'Unix. Par jeu de mots, le nom UNIX découle de celui d'un système antérieur, Multics.
+
+Il est important de savoir que différents systèmes d'exploitations actuels utilisent les commandes de cette "base" commune : Linux (principal OS pour les serveurs web), IOS, macOS, Android, etc ...
+
+[Pour en savoir plus sur UNIX - wikipédia](https://fr.wikipedia.org/wiki/Unix)
+
+Il est important de connaitre les commandes de base pour s'en "sortir" avec GIT, et même pour de nombreux autres langages ou logiciels utilisé via [SSH](https://fr.wikipedia.org/wiki/Secure_Shell).
+
+## DOS
+
+- [Retour à l'arborescence](#arborescence)
 
 ## GIT
 
@@ -66,3 +86,4 @@ https://github.com/WebDevCF2m2022
 
 - [Retour à l'arborescence](#arborescence)
 
+[Aide mémoire github](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/github-git-cheat-sheet.pdf)
