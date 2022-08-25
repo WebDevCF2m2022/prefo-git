@@ -1,6 +1,14 @@
 # prefo-git
 
-## Cours sur GIT - GITHUB
+**Cours de préformation sur les commandes (de base) UNIX et DOS, et sur GIT - GITHUB**
+
+## Arborescence
+
+- UNIX (LINUX - MAC)
+- DOS (WINDOWS)
+- GIT
+- Ressources GIT
+- Github
 
 ## GIT
 
@@ -22,7 +30,13 @@ Vous pouvez télécharger GIT sur le site officiel :
 
 https://git-scm.com/
 
-Vous y trouverez également de la documentation relativement complète.
+Vous y trouverez également de la documentation relativement complète online.
+
+Je vous ai mis la dernière version de progit.pdf dans le dépot (repository) actuel :
+
+[progit](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/progit.pdf)
+
+C'est une version
 
 ## GitHub.com
 
