@@ -12,7 +12,9 @@
 
 ## GIT
 
-Git est un logiciel de gestion de versions décentralisé gratuit et open source conçu pour gérer tout, 
+- [Retour à l'arborescence](#arborescence)
+
+Git est un logiciel de gestion de versions décentralisé gratuit et open source conçu pour gérer tout,
 des petits aux très grands projets avec rapidité et efficacité.
 
 C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et distribué selon les termes de la licence publique générale GNU version 2.
@@ -26,6 +28,8 @@ qui est à peu près l'équivalent de "connard" en argot britannique, Linus Torv
 
 ### Ressources GIT
 
+- [Retour à l'arborescence](#arborescence)
+
 Vous pouvez télécharger GIT sur le site officiel :
 
 https://git-scm.com/
@@ -36,9 +40,12 @@ Je vous ai mis la dernière version de progit.pdf dans le dépot (repository) ac
 
 [progit](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/progit.pdf)
 
-C'est une version
+Git Cheat Sheet en PNG:
+![git-cheat-sheet.png](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/git-cheat-sheet.png "git-cheat-sheet.png")
 
 ## GitHub.com
+
+- [Retour à l'arborescence](#arborescence)
 
 Si ce nom est encore inconnu pour beaucoup d’internautes, il désigne pourtant l’un des sites les plus visités au monde. En une décennie d’existence, il est devenu un outil incontournable pour les développeurs informatiques, qu’ils soient indépendants ou employés des grandes entreprises de la Silicon Valley.
 
