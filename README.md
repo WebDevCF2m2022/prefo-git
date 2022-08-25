@@ -44,9 +44,9 @@ Liste des principales commandes que nous utiliserons :
     - cd - (répertoire précedent)
     - cd / (répertoire racine)
 
-cp (copie)
-cp rapport*.txt sauvegarde
-cp * dossier (copie
+- [cp](http://www.linuxcertif.com/man/1/cp/) copie
+    - cp rapport*.txt sauvegarde
+    - cp * dossier copie
 mv (move, renomme et déplace un fichier)
 mv source destination
 mv * dossier (déplace tous les fichiers du répertoire actif vers le répertoire
