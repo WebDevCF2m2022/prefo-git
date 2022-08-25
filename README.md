@@ -6,9 +6,10 @@
 
 - UNIX (LINUX - MAC)
 - DOS (WINDOWS)
-- GIT
-- Ressources GIT
-- Github
+- [GIT](#GIT)
+- [Ressources GIT](#ressources-git)
+- [Github](#githubcom)
+- [Ressources GITHUB](#ressources-github)
 
 ## GIT
 
@@ -26,7 +27,7 @@ qui est à peu près l'équivalent de "connard" en argot britannique, Linus Torv
 
 > “je ne suis qu'un sale égocentrique, donc j'appelle tous mes projets d'après ma propre personne. D'abord Linux, puis Git.”
 
-### Ressources GIT
+## Ressources GIT
 
 - [Retour à l'arborescence](#arborescence)
 
@@ -38,7 +39,7 @@ Vous y trouverez également de la documentation relativement complète online.
 
 Je vous ai mis la dernière version de progit.pdf dans le dépot (repository) actuel :
 
-[progit](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/progit.pdf)
+- [progit](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/progit.pdf)
 
 Git Cheat Sheet en PNG:
 ![git-cheat-sheet.png](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/git-cheat-sheet.png "git-cheat-sheet.png")
@@ -60,3 +61,8 @@ Si vous n'avez pas encore de compte, créez-en un avec une adresse mail valide.
 Notre groupe se trouvera à cette URL pour cette session de formation:
 
 https://github.com/WebDevCF2m2022
+
+## Ressources GITHUB
+
+- [Retour à l'arborescence](#arborescence)
+
