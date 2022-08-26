@@ -147,8 +147,9 @@ https://github.com/WebDevCF2m2022
 
 - [Retour à l'arborescence](#arborescence)
 
-
-Un aide mémoire sur les commandes git liées à github
+Un aide mémoire sur les commandes git liées à github :
 - [Aide mémoire github](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/github-git-cheat-sheet.pdf)
 
-
+Deux cours en ligne sont particulièrement intéressants (et il y en a de nombreux!) :
+- https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
+- https://grafikart.fr/tutoriels/init-config-add-log-585#autoplay
