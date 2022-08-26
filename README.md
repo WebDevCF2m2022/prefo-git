@@ -162,11 +162,9 @@ Choisissez un username qui pourra être montré à un employeur !
 
 ### Connexion github
 
-Connectez-vous à votre compte sur https://github.com/ puis envoyez-moi votre username sur teams que je puisse vous rajouter au projet : 
+Connectez-vous à votre compte sur https://github.com/ puis envoyez-moi votre username sur teams que je puisse vous rajouter au projet :
 
 https://github.com/WebDevCF2m2022
-
-
 
 ### Lier votre compte et votre PC
 
@@ -179,11 +177,11 @@ Ne mettez pas de passphrases, inutiles dans le cadre d'une formation, puis ajout
     ssh-add ~/.ssh/id_ed25519
     eval "$(ssh-agent -s)"
     ssh-add ~/.ssh/id_ed25519
-    
+
 Ensuite copiez la clef publique avec cette commande :
 
     clip < ~/.ssh/id_ed25519.pub
-    
+
 Cliquez sur ce lien puis pour créer un clef SSH sur github :
 
 https://github.com/settings/ssh/new
@@ -194,8 +192,8 @@ Dans cette même console, liez votre ordinateur avec github:
 
     git config --global user.name "votre username"
     git config --global user.email votremail@utilisepourgithub.com
-    
-Si tout va bien, nous allons pouvoir commencer à travailler ensemble !
+
+**Si tout va bien, nous allons pouvoir commencer à travailler ensemble !**
 
 ## Ressources GITHUB
 
