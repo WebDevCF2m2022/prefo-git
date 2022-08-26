@@ -177,17 +177,25 @@ Dans la console Git ou Powershell, tapez cette ligne avec le mail utilisé pour 
 Ne mettez pas de passphrases, inutiles dans le cadre d'une formation, puis ajoutez la clef avec le code ci-dessous
 
     ssh-add ~/.ssh/id_ed25519
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_ed25519
     
-Dans cette même console, liez votre ordinateur avec github:
+Ensuite copiez la clef publique avec cette commande :
 
-    git config --global user.name "votre username"
-    git config --global user.email votremail@utilisepourgithub.com
+    clip < ~/.ssh/id_ed25519.pub
     
 Cliquez sur ce lien puis pour créer un clef SSH sur github :
 
 https://github.com/settings/ssh/new
 
-Et rajoutez la clef publique que vous trouverez
+Et rajoutez la clef publique que vous trouverez dans le champs key en collant le résultat de la commande précédente.
+
+Dans cette même console, liez votre ordinateur avec github:
+
+    git config --global user.name "votre username"
+    git config --global user.email votremail@utilisepourgithub.com
+    
+Si tout va bien, nous allons pouvoir commencer à travailler ensemble !
 
 ## Ressources GITHUB
 
