@@ -123,7 +123,7 @@ Git Cheat Sheet en PNG:
 ![git-cheat-sheet.png](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/git-cheat-sheet.png "git-cheat-sheet.png")
 
 Un memento Linux :
-![memento_linux.pdf](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/memento_linux.pdf "memento_linux.pdf")
+- [memento_linux.pdf](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/memento_linux.pdf "memento_linux.pdf")
 
 ## GitHub.com
 
@@ -147,6 +147,8 @@ https://github.com/WebDevCF2m2022
 
 - [Retour à l'arborescence](#arborescence)
 
-[Aide mémoire github](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/github-git-cheat-sheet.pdf)
+
+Un aide mémoire sur les commandes git liées à github
+- [Aide mémoire github](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/github-git-cheat-sheet.pdf)
 
 
