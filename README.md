@@ -41,7 +41,7 @@ Liste des principales commandes que nous utiliserons :
     - cd chemin (vers le répertoire dont le chemin absolu est donné)
     - cd .. (répertoire parent)
     - cd ~ (répertoire de base)
-    - cd - (répertoire précedent)
+    - cd - (répertoire précèdent)
     - cd / (répertoire racine)
 
 - [cp](http://www.linuxcertif.com/man/1/cp/) copie
@@ -72,6 +72,22 @@ Voici un Cheat sheet en cas de besoin :
 ## DOS
 
 - [Retour à l'arborescence](#arborescence)
+
+On appelle généralement DOS (disk operating system) le système d'exploitation PC-DOS, ainsi que la variante MS-DOS vendue par Microsoft pour les compatibles PC.
+
+Comme nous travaillons actuellement sous Windows, il est intéressant de connaitre quelques commandes de base :
+
+- md (Make Directory, pour créer un répertoire)
+- cd (Change Directory, pour changer de répertoire de travail)
+- rd (Remove Directory, pour détruire un répertoire)
+- copy (pour copier des fichiers)
+- dir (pour lister les fichiers)
+- cls (abréviation de CLear Screen pour effacer l'écran)
+- del (pour détruire un fichier)
+
+Pour une liste plus complète :
+
+https://fr.wikibooks.org/wiki/COMMAND.COM
 
 ## GIT
 
@@ -106,6 +122,9 @@ Je vous ai mis la dernière version de progit.pdf dans le dépôt (repository) a
 Git Cheat Sheet en PNG:
 ![git-cheat-sheet.png](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/git-cheat-sheet.png "git-cheat-sheet.png")
 
+Un memento Linux :
+![memento_linux.pdf](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/memento_linux.pdf "memento_linux.pdf")
+
 ## GitHub.com
 
 - [Retour à l'arborescence](#arborescence)
@@ -129,3 +148,5 @@ https://github.com/WebDevCF2m2022
 - [Retour à l'arborescence](#arborescence)
 
 [Aide mémoire github](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/github-git-cheat-sheet.pdf)
+
+
