@@ -38,7 +38,7 @@ Liste des principales commandes que nous utiliserons :
     - ls -l (affiche le format long : types + droits + Nbre de liens + ....)
     ...
 - [cd](https://www.techonthenet.com/unix/basic/cd.php) change de répertoire
-    - cp chemin (vers le répertoire dont le chemin absolu est donné)
+    - cd chemin (vers le répertoire dont le chemin absolu est donné)
     - cd .. (répertoire parent)
     - cd ~ (répertoire de base)
     - cd - (répertoire précedent)
@@ -60,8 +60,13 @@ Liste des principales commandes que nous utiliserons :
     - rm -f fichier (avec force, sans demande de confirmation)
     - rm -r fichier (avec récursivité, avec les sous répertoires)
     - rm -rf dossier (supprime le répertoire et tout son contenu, sans confirmation)
+- [echo](https://www.wikiwand.com/fr/Echo_(Unix)) affiche du texte et peut remplir un fichier
+    - echo "blabla"
+    - echo "Avec une redirection vers un fichier" > test.txt
 
+Pour les autres commandes principales (grep, vi, etc...), la documentation est vaste sur internet !
 
+Voici un Cheat sheet en cas de besoin :
 - [Cheat sheet Unix en pdf](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/Unix_command_cheatsheet.pdf)
 
 ## DOS
