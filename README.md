@@ -10,6 +10,7 @@
 - [Ressources GIT](#ressources-git)
 - [Github](#githubcom)
 - [Ressources GITHUB](#ressources-github)
+- [Compte github](#compte-github)
 
 ## UNIX
 
@@ -142,6 +143,25 @@ Si vous n'avez pas encore de compte, créez-en un avec une adresse mail valide.
 Notre groupe se trouvera à cette URL pour cette session de formation:
 
 https://github.com/WebDevCF2m2022
+
+## Compte github
+
+- [Retour à l'arborescence](#arborescence)
+
+Si vous avez déjà un compte github, vous pouvez passer la première étape d'inscrition
+
+### Inscription
+
+Rendez-vous à l'adresse ci-dessous et utilisez un mail auquel vous avez accès (et que vous garderez !).
+
+https://github.com/signup
+
+N'oubliez pas votre mot de passe, même si vous pourrez le mettre à jour via votre mail.
+
+Choisissez un username qui pourra être montré à un employeur !
+
+###
+
 
 ## Ressources GITHUB
 
