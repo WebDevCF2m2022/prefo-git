@@ -160,8 +160,34 @@ N'oubliez pas votre mot de passe, même si vous pourrez le mettre à jour via vo
 
 Choisissez un username qui pourra être montré à un employeur !
 
-###
+### Connexion github
 
+Connectez-vous à votre compte sur https://github.com/ puis envoyez-moi votre username sur teams que je puisse vous rajouter au projet : 
+
+https://github.com/WebDevCF2m2022
+
+
+
+### Lier votre compte et votre PC
+
+Dans la console Git ou Powershell, tapez cette ligne avec le mail utilisé pour se connecter à github :
+
+    ssh-keygen -t ed25519 -C "votremail@utilisepourgithub.com"
+
+Ne mettez pas de passphrases, inutiles dans le cadre d'une formation, puis ajoutez la clef avec le code ci-dessous
+
+    ssh-add ~/.ssh/id_ed25519
+    
+Dans cette même console, liez votre ordinateur avec github:
+
+    git config --global user.name "votre username"
+    git config --global user.email votremail@utilisepourgithub.com
+    
+Cliquez sur ce lien puis pour créer un clef SSH sur github :
+
+https://github.com/settings/ssh/new
+
+Et rajoutez la clef publique que vous trouverez
 
 ## Ressources GITHUB
 
