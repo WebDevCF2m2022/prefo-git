@@ -16,7 +16,7 @@
 
 - [Retour à l'arborescence](#arborescence)
 
-Unix est un système d'exploitation créé par Bell Labs en 1969 sous la forme d'un systèmes d'exploitation multitâche et multi-utilisateur.
+Unix est un système d'exploitation créé par Bell Labs en 1969 sous la forme d'un système d'exploitation multitâche et multi-utilisateur.
 
 Il repose sur un interpréteur ou superviseur ( le [shell](https://fr.wikipedia.org/wiki/Shell_Unix) ) et de nombreux petits utilitaires, accomplissant chacun une action spécifique, commutables entre eux (mécanisme de « redirection ») et appelés depuis la ligne de commande (PowerShell par exemple sous Windows, car Windows utilise le langage natif [DOS](#dos) si on exécute `cmd.exe`).
 
